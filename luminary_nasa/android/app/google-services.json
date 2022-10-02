@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1014971590260",
+    "project_id": "nasa-luminary",
+    "storage_bucket": "nasa-luminary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014971590260:android:3bf2cd17a0494dc3bad321",
+        "android_client_info": {
+          "package_name": "com.example.luminary_nasa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014971590260-c76p2e1gl9us883eohe9hbajekicl3ln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVppnUv0tTkzM8QO1fVXCFUCHAPGEw2NA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014971590260-c76p2e1gl9us883eohe9hbajekicl3ln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
