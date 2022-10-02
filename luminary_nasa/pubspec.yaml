@@ -82,11 +82,6 @@ flutter:
     - assets/images/luminary.png
     - assets/images/logo.png
     - assets/images/app_name.png
-    - assets/images/psp4.png
-    - assets/images/psp1.jpg
-    - assets/images/psp2.jpg
-    - assets/images/psp3.jpg
-    - assets/images/psp5.jpg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
